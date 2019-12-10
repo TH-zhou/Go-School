@@ -1,1 +1,1 @@
-*.go linguist-language=Go
+*.tpl linguist-language=Go
